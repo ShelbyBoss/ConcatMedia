@@ -1,0 +1,5 @@
+g:\users\clemens\documents\visual studio 2015\Projects\ConcatMedia\bin\Release\ConcatMedia.exe.config
+g:\users\clemens\documents\visual studio 2015\Projects\ConcatMedia\bin\Release\ConcatMedia.exe
+g:\users\clemens\documents\visual studio 2015\Projects\ConcatMedia\bin\Release\ConcatMedia.pdb
+g:\users\clemens\documents\visual studio 2015\Projects\ConcatMedia\obj\Release\ConcatMedia.exe
+g:\users\clemens\documents\visual studio 2015\Projects\ConcatMedia\obj\Release\ConcatMedia.pdb

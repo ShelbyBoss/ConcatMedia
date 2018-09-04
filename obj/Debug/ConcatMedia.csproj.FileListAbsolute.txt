@@ -1,0 +1,6 @@
+g:\users\clemens\documents\visual studio 2015\Projects\ConcatMedia\bin\Debug\ConcatMedia.exe.config
+g:\users\clemens\documents\visual studio 2015\Projects\ConcatMedia\bin\Debug\ConcatMedia.exe
+g:\users\clemens\documents\visual studio 2015\Projects\ConcatMedia\bin\Debug\ConcatMedia.pdb
+g:\users\clemens\documents\visual studio 2015\Projects\ConcatMedia\obj\Debug\ConcatMedia.csprojResolveAssemblyReference.cache
+g:\users\clemens\documents\visual studio 2015\Projects\ConcatMedia\obj\Debug\ConcatMedia.exe
+g:\users\clemens\documents\visual studio 2015\Projects\ConcatMedia\obj\Debug\ConcatMedia.pdb
